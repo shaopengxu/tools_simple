@@ -1,3 +1,6 @@
-public class HelloWorld{
+public class HelloWorld {
 
+	void test() {
+
+	}
 }
